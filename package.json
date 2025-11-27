@@ -1,0 +1,23 @@
+{
+  "name": "glassgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xevrion/glassGPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xevrion/glassGPT/issues"
+  },
+  "homepage": "https://github.com/xevrion/glassGPT#readme",
+  "devDependencies": {
+    "electron": "^39.2.4"
+  }
+}
